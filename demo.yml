@@ -1,0 +1,11 @@
+# 配置中心仓库的公共配置（所有环境共享）
+server:
+  port: 11001
+
+spring:
+  application:
+    name: demo
+
+data:
+  env: common
+  desc: 来自配置中心的公共配置
