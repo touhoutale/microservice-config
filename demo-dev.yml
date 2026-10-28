@@ -1,0 +1,4 @@
+# dev 环境专属配置：会覆盖 demo.yml 中的同名配置
+data:
+  env: Dev
+  desc: 来自配置中心 dev 环境的配置
