@@ -1,0 +1,4 @@
+# pro 环境专属配置
+data:
+  env: Pro
+  desc: 来自配置中心 pro 环境的配置
